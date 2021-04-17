@@ -1,4 +1,4 @@
-[
+[{
        {"trackingcode" : "123456",
         "information" : [{
                 "originsituation": "loaded..",
@@ -13,4 +13,4 @@
                 "insurance":"done..",
                 "estimate_the_arrival_time":"10 May 2021"
         }]}
-]
+}]
