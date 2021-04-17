@@ -1,0 +1,24 @@
+[
+    {
+        trackingcode : "123456",
+        information : [
+            {
+                originsituation: "loaded",
+                timeofloading: "..2 Jan 2021",
+                insurance:"..done",
+                estimate_the_arrival_time: "..arrived"
+            }
+        ]
+    },
+    {
+        trackingcode: "123457",
+        information: [
+            {
+                originsituation:"loaded",
+                timeofloading:"..2 Apr 2021",
+                insurance:"..done",
+                estimate_the_arrival_time:"..10 May 2021"
+            }
+        ]
+    }
+]
